@@ -19,4 +19,5 @@ Dark Mode Interface:
 
 The application uses a consistent dark theme, providing better visual comfort. Standardized dark background, high-contrast text, clean and organized interface and secondary windows with controlled focus.
 
-Download: https://devn0x39.itch.io/creafolders
+# Download: 
+https://devn0x39.itch.io/creafolders
